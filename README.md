@@ -31,7 +31,7 @@
 
 - **Se relier en un clic** : le launcher lance DayZ directement connecté au serveur Dystopia, avec les bons mods dans le bon ordre.
 - **Mods automatiques** : la liste des mods est lue en direct depuis le serveur. Les mods manquants se téléchargent via Steam d'un clic, avec barre de progression. Un mod abîmé se répare d'un clic.
-- **État du serveur en direct** : survivants reliés, carte, latence.
+- **État du serveur en direct** : joueurs connectés, carte, latence.
 - **Présence Discord** : vos amis voient que vous êtes sur Dystopia.
 - **Mises à jour automatiques** : le launcher se tient à jour tout seul, signé et vérifié.
 
