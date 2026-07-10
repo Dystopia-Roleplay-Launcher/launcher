@@ -35,6 +35,14 @@
 - **Présence Discord** : vos amis voient que vous êtes sur Dystopia.
 - **Mises à jour automatiques** : le launcher se tient à jour tout seul, signé et vérifié.
 
+## Nouveautés (v0.1.2)
+
+- Vérification renforcée des mods : un mod au contenu invalide est signalé « à réparer » avant la connexion, plus de mauvaise surprise en jeu.
+- État d'abonnement Workshop : les mods présents sur le disque mais non abonnés sont marqués, abonnement en un clic.
+- Lancement plus clair : le launcher reste visible pendant le démarrage du jeu, puis affiche « Jeu lancé » avec un bouton pour fermer le jeu.
+- Présence Discord plus juste : les joueurs connectés ne s'affichent que quand vous êtes en jeu.
+- Bouton d'actualisation de l'état du serveur, installeur en français.
+
 ## Prérequis
 
 | | |
